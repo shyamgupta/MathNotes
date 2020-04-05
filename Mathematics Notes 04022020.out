@@ -1,0 +1,53 @@
+\BOOKMARK [0][-]{chapter.1}{Number Systems}{}% 1
+\BOOKMARK [1][-]{section.1.1}{Introduction}{chapter.1}% 2
+\BOOKMARK [1][-]{section.1.2}{Real Number Line}{chapter.1}% 3
+\BOOKMARK [1][-]{section.1.3}{Rational Numbers}{chapter.1}% 4
+\BOOKMARK [1][-]{section.1.4}{Irrational Numbers}{chapter.1}% 5
+\BOOKMARK [1][-]{section.1.5}{Examples}{chapter.1}% 6
+\BOOKMARK [1][-]{section.1.6}{Square Root of Real Numbers}{chapter.1}% 7
+\BOOKMARK [1][-]{section.1.7}{Absolute Value}{chapter.1}% 8
+\BOOKMARK [1][-]{section.1.8}{Intervals}{chapter.1}% 9
+\BOOKMARK [1][-]{section.1.9}{Euclid's Division Lemma}{chapter.1}% 10
+\BOOKMARK [2][-]{subsection.1.9.1}{Highest Common Factor}{section.1.9}% 11
+\BOOKMARK [1][-]{section.1.10}{Fundamental Theorem of Arithmetic}{chapter.1}% 12
+\BOOKMARK [0][-]{chapter.2}{Polynomials}{}% 13
+\BOOKMARK [1][-]{section.2.1}{Introduction}{chapter.2}% 14
+\BOOKMARK [1][-]{section.2.2}{Remainder Theorem}{chapter.2}% 15
+\BOOKMARK [1][-]{section.2.3}{Factor Theorem}{chapter.2}% 16
+\BOOKMARK [1][-]{section.2.4}{Useful Identities}{chapter.2}% 17
+\BOOKMARK [1][-]{section.2.5}{Synthetic Division}{chapter.2}% 18
+\BOOKMARK [1][-]{section.2.6}{Zeros of a Polynomial}{chapter.2}% 19
+\BOOKMARK [0][-]{chapter.3}{Graphs of Polynomial Functions}{}% 20
+\BOOKMARK [1][-]{section.3.1}{Linear Polynomial - Straight Line}{chapter.3}% 21
+\BOOKMARK [1][-]{section.3.2}{Quadratic Polynomial - Parabola}{chapter.3}% 22
+\BOOKMARK [2][-]{subsection.3.2.1}{Leading Coefficient}{section.3.2}% 23
+\BOOKMARK [2][-]{subsection.3.2.2}{Vertex}{section.3.2}% 24
+\BOOKMARK [2][-]{subsection.3.2.3}{Axis of Symmetry}{section.3.2}% 25
+\BOOKMARK [2][-]{subsection.3.2.4}{Discriminant}{section.3.2}% 26
+\BOOKMARK [1][-]{section.3.3}{Graphs of Other Polynomial Functions}{chapter.3}% 27
+\BOOKMARK [2][-]{subsection.3.3.1}{Leading Coefficient and Degree}{section.3.3}% 28
+\BOOKMARK [2][-]{subsection.3.3.2}{Zeroes and their multiplicities}{section.3.3}% 29
+\BOOKMARK [2][-]{subsection.3.3.3}{Turning Points}{section.3.3}% 30
+\BOOKMARK [2][-]{subsection.3.3.4}{Positive and Negative Intervals}{section.3.3}% 31
+\BOOKMARK [0][-]{chapter.4}{Quadratic Equations}{}% 32
+\BOOKMARK [1][-]{section.4.1}{Introduction}{chapter.4}% 33
+\BOOKMARK [1][-]{section.4.2}{Common Roots}{chapter.4}% 34
+\BOOKMARK [2][-]{subsection.4.2.1}{Condition for one common root}{section.4.2}% 35
+\BOOKMARK [2][-]{subsection.4.2.2}{Condition for both roots to be common}{section.4.2}% 36
+\BOOKMARK [1][-]{section.4.3}{Location of Roots}{chapter.4}% 37
+\BOOKMARK [2][-]{subsection.4.3.1}{Both roots are greater than a number d}{section.4.3}% 38
+\BOOKMARK [2][-]{subsection.4.3.2}{Both roots lie on opposite sides of a number d}{section.4.3}% 39
+\BOOKMARK [2][-]{subsection.4.3.3}{Both roots lie between \(d,e\)}{section.4.3}% 40
+\BOOKMARK [2][-]{subsection.4.3.4}{\(d,e\) lie between the roots}{section.4.3}% 41
+\BOOKMARK [2][-]{subsection.4.3.5}{Exactly one root lies in interval \(d,e\)}{section.4.3}% 42
+\BOOKMARK [0][-]{chapter.5}{Logarithms}{}% 43
+\BOOKMARK [1][-]{section.5.1}{Introduction}{chapter.5}% 44
+\BOOKMARK [1][-]{section.5.2}{Identities}{chapter.5}% 45
+\BOOKMARK [0][-]{chapter.6}{Exponential Functions}{}% 46
+\BOOKMARK [1][-]{section.6.1}{Introduction}{chapter.6}% 47
+\BOOKMARK [1][-]{section.6.2}{Graphs of Exponential Functions}{chapter.6}% 48
+\BOOKMARK [1][-]{section.6.3}{Transformation of Exponential Functions}{chapter.6}% 49
+\BOOKMARK [2][-]{subsection.6.3.1}{f\(x\)=1+ax}{section.6.3}% 50
+\BOOKMARK [2][-]{subsection.6.3.2}{f\(x\) = -ax}{section.6.3}% 51
+\BOOKMARK [2][-]{subsection.6.3.3}{f\(x\) = a-x}{section.6.3}% 52
+\BOOKMARK [1][-]{section.6.4}{The Natural Exponential Function}{chapter.6}% 53
