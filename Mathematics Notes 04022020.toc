@@ -1,0 +1,55 @@
+\contentsline {chapter}{\numberline {1}Number Systems}{5}% 
+\contentsline {section}{\numberline {1.1}Introduction}{5}% 
+\contentsline {section}{\numberline {1.2}Real Number Line}{5}% 
+\contentsline {paragraph}{Number Line}{5}% 
+\contentsline {paragraph}{Real Number Line}{5}% 
+\contentsline {section}{\numberline {1.3}Rational Numbers}{6}% 
+\contentsline {section}{\numberline {1.4}Irrational Numbers}{7}% 
+\contentsline {section}{\numberline {1.5}Examples}{7}% 
+\contentsline {section}{\numberline {1.6}Square Root of Real Numbers}{7}% 
+\contentsline {section}{\numberline {1.7}Absolute Value}{7}% 
+\contentsline {section}{\numberline {1.8}Intervals}{8}% 
+\contentsline {section}{\numberline {1.9}Euclid's Division Lemma}{8}% 
+\contentsline {subsection}{\numberline {1.9.1}Highest Common Factor}{9}% 
+\contentsline {section}{\numberline {1.10}Fundamental Theorem of Arithmetic}{9}% 
+\contentsline {chapter}{\numberline {2}Polynomials}{11}% 
+\contentsline {section}{\numberline {2.1}Introduction}{11}% 
+\contentsline {section}{\numberline {2.2}Remainder Theorem}{12}% 
+\contentsline {section}{\numberline {2.3}Factor Theorem}{12}% 
+\contentsline {section}{\numberline {2.4}Useful Identities}{12}% 
+\contentsline {section}{\numberline {2.5}Synthetic Division}{12}% 
+\contentsline {section}{\numberline {2.6}Zeros of a Polynomial}{13}% 
+\contentsline {chapter}{\numberline {3}Graphs of Polynomial Functions}{15}% 
+\contentsline {section}{\numberline {3.1}Linear Polynomial - Straight Line}{15}% 
+\contentsline {section}{\numberline {3.2}Quadratic Polynomial - Parabola}{16}% 
+\contentsline {subsection}{\numberline {3.2.1}Leading Coefficient}{16}% 
+\contentsline {subsection}{\numberline {3.2.2}Vertex}{16}% 
+\contentsline {subsection}{\numberline {3.2.3}Axis of Symmetry}{17}% 
+\contentsline {subsection}{\numberline {3.2.4}Discriminant}{17}% 
+\contentsline {section}{\numberline {3.3}Graphs of Other Polynomial Functions}{18}% 
+\contentsline {subsection}{\numberline {3.3.1}Leading Coefficient and Degree}{18}% 
+\contentsline {subsection}{\numberline {3.3.2}Zeroes and their multiplicities}{19}% 
+\contentsline {subsection}{\numberline {3.3.3}Turning Points}{20}% 
+\contentsline {subsection}{\numberline {3.3.4}Positive and Negative Intervals}{21}% 
+\contentsline {chapter}{\numberline {4}Quadratic Equations}{23}% 
+\contentsline {section}{\numberline {4.1}Introduction}{23}% 
+\contentsline {section}{\numberline {4.2}Common Roots}{23}% 
+\contentsline {subsection}{\numberline {4.2.1}Condition for one common root}{24}% 
+\contentsline {subsection}{\numberline {4.2.2}Condition for both roots to be common}{24}% 
+\contentsline {section}{\numberline {4.3}Location of Roots}{24}% 
+\contentsline {subsection}{\numberline {4.3.1}Both roots are greater than a number $d$}{24}% 
+\contentsline {subsection}{\numberline {4.3.2}Both roots lie on opposite sides of a number $d$}{24}% 
+\contentsline {subsection}{\numberline {4.3.3}Both roots lie between $(d,e)$}{25}% 
+\contentsline {subsection}{\numberline {4.3.4}$(d,e)$ lie between the roots}{25}% 
+\contentsline {subsection}{\numberline {4.3.5}Exactly one root lies in interval $(d,e)$}{25}% 
+\contentsline {chapter}{\numberline {5}Logarithms}{27}% 
+\contentsline {section}{\numberline {5.1}Introduction}{27}% 
+\contentsline {section}{\numberline {5.2}Identities}{27}% 
+\contentsline {chapter}{\numberline {6}Exponential Functions}{29}% 
+\contentsline {section}{\numberline {6.1}Introduction}{29}% 
+\contentsline {section}{\numberline {6.2}Graphs of Exponential Functions}{29}% 
+\contentsline {section}{\numberline {6.3}Transformation of Exponential Functions}{30}% 
+\contentsline {subsection}{\numberline {6.3.1}$f(x)=1+a^x$}{30}% 
+\contentsline {subsection}{\numberline {6.3.2}$f(x) = -a^x$}{30}% 
+\contentsline {subsection}{\numberline {6.3.3}$f(x) = a^{-x}$}{30}% 
+\contentsline {section}{\numberline {6.4}The Natural Exponential Function}{31}% 
