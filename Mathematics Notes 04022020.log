@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.5.8)  5 APR 2020 16:47
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.5.8)  5 APR 2020 21:55
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -745,7 +745,7 @@ File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 25.
-<./images/numbersystem.png, id=299, 461.725pt x 351.3125pt>
+<./images/numbersystem.png, id=304, 461.725pt x 351.3125pt>
 File: ./images/numbersystem.png Graphic file (type png)
 <use ./images/numbersystem.png>
 Package pdftex.def Info: ./images/numbersystem.png  used on input line 39.
@@ -760,7 +760,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 70--73
  []
 
 Package mdframed Info: mdframed works in twoside mode on input line 74.
-<./images/squareroot.png, id=312, 359.3425pt x 196.735pt>
+<./images/squareroot.png, id=317, 359.3425pt x 196.735pt>
 File: ./images/squareroot.png Graphic file (type png)
 <use ./images/squareroot.png>
 Package pdftex.def Info: ./images/squareroot.png  used on input line 77.
@@ -777,7 +777,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 77--83
 
 Package mdframed Info: mdframed works in twoside mode on input line 85.
 [7 <./images/squareroot.png>]
-<./images/absvalue.png, id=321, 440.64626pt x 106.3975pt>
+<./images/absvalue.png, id=326, 440.64626pt x 106.3975pt>
 File: ./images/absvalue.png Graphic file (type png)
 <use ./images/absvalue.png>
 Package pdftex.def Info: ./images/absvalue.png  used on input line 105.
@@ -797,361 +797,404 @@ Underfull \hbox (badness 10000) in paragraph at lines 111--112
 
  []
 
-<./images/openinterval.png, id=322, 277.035pt x 42.1575pt>
+Package mdframed Info: mdframed works in twoside mode on input line 125.
+
+Underfull \hbox (badness 10000) in paragraph at lines 135--137
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 138--139
+
+ []
+
+<./images/solution1.png, id=327, 468.75125pt x 386.44376pt>
+File: ./images/solution1.png Graphic file (type png)
+<use ./images/solution1.png>
+Package pdftex.def Info: ./images/solution1.png  used on input line 140.
+(pdftex.def)             Requested size: 234.37505pt x 193.2214pt.
+[8 <./images/absvalue.png>]
+<./images/openinterval.png, id=333, 277.035pt x 42.1575pt>
 File: ./images/openinterval.png Graphic file (type png)
 <use ./images/openinterval.png>
-Package pdftex.def Info: ./images/openinterval.png  used on input line 128.
+Package pdftex.def Info: ./images/openinterval.png  used on input line 148.
 (pdftex.def)             Requested size: 138.51715pt x 21.07869pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 126--130
+Underfull \hbox (badness 10000) in paragraph at lines 146--150
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 126--130
+Underfull \hbox (badness 10000) in paragraph at lines 146--150
 
  []
 
-<./images/closedinterval.png, id=323, 246.9225pt x 38.1425pt>
+<./images/closedinterval.png, id=334, 246.9225pt x 38.1425pt>
 File: ./images/closedinterval.png Graphic file (type png)
 <use ./images/closedinterval.png>
-Package pdftex.def Info: ./images/closedinterval.png  used on input line 133.
+Package pdftex.def Info: ./images/closedinterval.png  used on input line 153.
 (pdftex.def)             Requested size: 123.46094pt x 19.0712pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 131--134
+Underfull \hbox (badness 10000) in paragraph at lines 151--154
 
  []
 
-Package mdframed Info: mdframed works in twoside mode on input line 136.
+Package mdframed Info: mdframed works in twoside mode on input line 156.
 
-Underfull \hbox (badness 10000) in paragraph at lines 141--146
-
- []
-
-[8 <./images/absvalue.png> <./images/openinterval.png> <./images/closedinterval
-.png>]
-Package mdframed Info: mdframed works in twoside mode on input line 147.
-Package mdframed Info: mdframed works in twoside mode on input line 152.
-
-Underfull \hbox (badness 10000) in paragraph at lines 155--156
+Underfull \hbox (badness 10000) in paragraph at lines 161--166
 
  []
 
-[9] [10
+Package mdframed Info: mdframed works in twoside mode on input line 167.
+Package mdframed Info: mdframed works in twoside mode on input line 172.
+[9 <./images/solution1.png> <./images/openinterval.png> <./images/closedinterva
+l.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 175--176
 
-]
+ []
+
+[10]
 Chapter 2.
 
-Underfull \hbox (badness 10000) in paragraph at lines 180--181
+Underfull \hbox (badness 10000) in paragraph at lines 200--201
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 182--183
+Underfull \hbox (badness 10000) in paragraph at lines 202--203
 
  []
 
-Package mdframed Info: mdframed works in twoside mode on input line 183.
-[11]
-Underfull \hbox (badness 10000) in paragraph at lines 191--192
+Package mdframed Info: mdframed works in twoside mode on input line 203.
+[11
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 211--212
 
  []
 
-Package mdframed Info: mdframed works in twoside mode on input line 194.
-Package mdframed Info: mdframed works in twoside mode on input line 199.
-Package mdframed Info: mdframed works in twoside mode on input line 227.
+Package mdframed Info: mdframed works in twoside mode on input line 214.
+Package mdframed Info: mdframed works in twoside mode on input line 219.
+Package mdframed Info: mdframed works in twoside mode on input line 247.
 
-Underfull \hbox (badness 10000) in paragraph at lines 230--231
+Underfull \hbox (badness 10000) in paragraph at lines 250--251
 
  []
 
-<./images/sdivision.png, id=344, 489.83pt x 98.3675pt>
+<./images/sdivision.png, id=351, 489.83pt x 98.3675pt>
 File: ./images/sdivision.png Graphic file (type png)
 <use ./images/sdivision.png>
-Package pdftex.def Info: ./images/sdivision.png  used on input line 232.
+Package pdftex.def Info: ./images/sdivision.png  used on input line 252.
 (pdftex.def)             Requested size: 342.87866pt x 68.85675pt.
 
-Overfull \hbox (15.80066pt too wide) in paragraph at lines 232--233
+Overfull \hbox (15.80066pt too wide) in paragraph at lines 252--253
 [][] 
  []
 
 [12]
-Package mdframed Info: mdframed works in twoside mode on input line 236.
+Package mdframed Info: mdframed works in twoside mode on input line 256.
  [13 <./images/sdivision.png>] [14
 
 ]
 Chapter 3.
-<./images/slope1.png, id=365, 470.75874pt x 209.78375pt>
+<./images/slope1.png, id=372, 470.75874pt x 209.78375pt>
 File: ./images/slope1.png Graphic file (type png)
 <use ./images/slope1.png>
-Package pdftex.def Info: ./images/slope1.png  used on input line 246.
+Package pdftex.def Info: ./images/slope1.png  used on input line 265.
 (pdftex.def)             Requested size: 329.52887pt x 146.84761pt.
-<./images/slope2.png, id=366, 412.54124pt x 277.035pt>
+<./images/slope2.png, id=373, 412.54124pt x 277.035pt>
 File: ./images/slope2.png Graphic file (type png)
 <use ./images/slope2.png>
-Package pdftex.def Info: ./images/slope2.png  used on input line 261.
+Package pdftex.def Info: ./images/slope2.png  used on input line 280.
 (pdftex.def)             Requested size: 288.7769pt x 193.92317pt.
 [15 <./images/slope1.png>]
-<./images/parabolalc.png, id=372, 524.96124pt x 207.77625pt>
+<./images/parabolalc.png, id=379, 524.96124pt x 207.77625pt>
 File: ./images/parabolalc.png Graphic file (type png)
 <use ./images/parabolalc.png>
-Package pdftex.def Info: ./images/parabolalc.png  used on input line 278.
+Package pdftex.def Info: ./images/parabolalc.png  used on input line 297.
 (pdftex.def)             Requested size: 314.97917pt x 124.6667pt.
  [16 <./images/slope2.png> <./images/parabolalc.png>]
-<./images/parabolalos.png, id=383, 737.75626pt x 306.14375pt>
+<./images/parabolalos.png, id=390, 737.75626pt x 306.14375pt>
 File: ./images/parabolalos.png Graphic file (type png)
 <use ./images/parabolalos.png>
-Package pdftex.def Info: ./images/parabolalos.png  used on input line 305.
+Package pdftex.def Info: ./images/parabolalos.png  used on input line 324.
 (pdftex.def)             Requested size: 442.65717pt x 183.68765pt.
 
-Overfull \hbox (4.68927pt too wide) in paragraph at lines 305--306
+Overfull \hbox (4.68927pt too wide) in paragraph at lines 324--325
 [][] 
  []
 
 
-Overfull \hbox (50.93341pt too wide) in paragraph at lines 310--327
+Overfull \hbox (50.93341pt too wide) in paragraph at lines 329--346
 [][] 
  []
 
-<./images/parabolad.png, id=384, 474.77374pt x 630.355pt>
+<./images/parabolad.png, id=391, 474.77374pt x 630.355pt>
 File: ./images/parabolad.png Graphic file (type png)
 <use ./images/parabolad.png>
-Package pdftex.def Info: ./images/parabolad.png  used on input line 331.
+Package pdftex.def Info: ./images/parabolad.png  used on input line 350.
 (pdftex.def)             Requested size: 332.33936pt x 441.24548pt.
 [17 <./images/parabolalos.png>]
-<./images/polynomialg.png, id=390, 584.1825pt x 450.68375pt>
+<./images/polynomialg.png, id=397, 584.1825pt x 450.68375pt>
 File: ./images/polynomialg.png Graphic file (type png)
 <use ./images/polynomialg.png>
-Package pdftex.def Info: ./images/polynomialg.png  used on input line 357.
+Package pdftex.def Info: ./images/polynomialg.png  used on input line 376.
 (pdftex.def)             Requested size: 408.92496pt x 315.47646pt.
  [18 <./images/parabolad.png>]
-<./images/zerom.png, id=396, 386.44376pt x 546.04pt>
+<./images/zerom.png, id=403, 386.44376pt x 546.04pt>
 File: ./images/zerom.png Graphic file (type png)
 <use ./images/zerom.png>
-Package pdftex.def Info: ./images/zerom.png  used on input line 377.
+Package pdftex.def Info: ./images/zerom.png  used on input line 396.
 (pdftex.def)             Requested size: 270.50877pt x 382.22539pt.
  [19 <./images/polynomialg.png>]
-<./images/turningpoint.png, id=403, 472.76625pt x 418.56375pt>
+<./images/turningpoint.png, id=410, 472.76625pt x 418.56375pt>
 File: ./images/turningpoint.png Graphic file (type png)
 <use ./images/turningpoint.png>
-Package pdftex.def Info: ./images/turningpoint.png  used on input line 395.
+Package pdftex.def Info: ./images/turningpoint.png  used on input line 414.
 (pdftex.def)             Requested size: 330.93411pt x 292.99261pt.
  [20 <./images/zerom.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 398--400
+Underfull \hbox (badness 10000) in paragraph at lines 417--419
 
  []
 
-<./images/pinterval1.png, id=409, 322.20375pt x 305.14pt>
+<./images/pinterval1.png, id=416, 322.20375pt x 305.14pt>
 File: ./images/pinterval1.png Graphic file (type png)
 <use ./images/pinterval1.png>
-Package pdftex.def Info: ./images/pinterval1.png  used on input line 401.
+Package pdftex.def Info: ./images/pinterval1.png  used on input line 420.
 (pdftex.def)             Requested size: 161.10147pt x 152.56961pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 403--405
+Underfull \hbox (badness 10000) in paragraph at lines 422--424
 
  []
 
-<./images/pinterval2.png, id=410, 438.63875pt x 235.88126pt>
+<./images/pinterval2.png, id=417, 438.63875pt x 235.88126pt>
 File: ./images/pinterval2.png Graphic file (type png)
 <use ./images/pinterval2.png>
-Package pdftex.def Info: ./images/pinterval2.png  used on input line 406.
+Package pdftex.def Info: ./images/pinterval2.png  used on input line 425.
 (pdftex.def)             Requested size: 219.31883pt x 117.94034pt.
-<./images/pinterval3.png, id=411, 719.68875pt x 728.7225pt>
+<./images/pinterval3.png, id=418, 719.68875pt x 728.7225pt>
 File: ./images/pinterval3.png Graphic file (type png)
 <use ./images/pinterval3.png>
-Package pdftex.def Info: ./images/pinterval3.png  used on input line 408.
+Package pdftex.def Info: ./images/pinterval3.png  used on input line 427.
 (pdftex.def)             Requested size: 431.81659pt x 437.23688pt.
 [21 <./images/turningpoint.png> <./images/pinterval1.png> <./images/pinterval2.
-png>] [22 <./images/pinterval3.png>]
+png>]
+<./images/localmaximum.png, id=426, 511.9125pt x 262.9825pt>
+File: ./images/localmaximum.png Graphic file (type png)
+<use ./images/localmaximum.png>
+Package pdftex.def Info: ./images/localmaximum.png  used on input line 433.
+(pdftex.def)             Requested size: 358.3363pt x 184.08649pt.
+<./images/localminimum.png, id=427, 453.695pt x 281.05pt>
+File: ./images/localminimum.png Graphic file (type png)
+<use ./images/localminimum.png>
+Package pdftex.def Info: ./images/localminimum.png  used on input line 437.
+(pdftex.def)             Requested size: 317.58434pt x 196.73364pt.
+ [22 <./images/pinterval3.png> <./images/localmaximum.png>]
+<./images/concave1.png, id=434, 474.77374pt x 165.61874pt>
+File: ./images/concave1.png Graphic file (type png)
+<use ./images/concave1.png>
+Package pdftex.def Info: ./images/concave1.png  used on input line 441.
+(pdftex.def)             Requested size: 427.29242pt x 149.05548pt.
+<./images/inflection1.png, id=435, 555.07375pt x 150.5625pt>
+File: ./images/inflection1.png Graphic file (type png)
+<use ./images/inflection1.png>
+Package pdftex.def Info: ./images/inflection1.png  used on input line 445.
+(pdftex.def)             Requested size: 499.56174pt x 135.50497pt.
+
+Overfull \hbox (61.59384pt too wide) in paragraph at lines 445--446
+[][] 
+ []
+
+<./images/inflection2.png, id=436, 193.72375pt x 248.93pt>
+File: ./images/inflection2.png Graphic file (type png)
+<use ./images/inflection2.png>
+Package pdftex.def Info: ./images/inflection2.png  used on input line 457.
+(pdftex.def)             Requested size: 174.34975pt x 224.03491pt.
+[23 <./images/localminimum.png> <./images/concave1.png> <./images/inflection1.p
+ng>] [24 <./images/inflection2.png>]
 Chapter 4.
-Package mdframed Info: mdframed works in twoside mode on input line 428.
-Package mdframed Info: mdframed works in twoside mode on input line 435.
-Package mdframed Info: mdframed works in twoside mode on input line 455.
-[23
+Package mdframed Info: mdframed works in twoside mode on input line 478.
+Package mdframed Info: mdframed works in twoside mode on input line 485.
+Package mdframed Info: mdframed works in twoside mode on input line 505.
+[25
 
 ]
-Package mdframed Info: mdframed works in twoside mode on input line 462.
+Package mdframed Info: mdframed works in twoside mode on input line 512.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 468.
+(hyperref)                removing `math shift' on input line 518.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 468.
+(hyperref)                removing `math shift' on input line 518.
 
-<./images/condition1.png, id=428, 434.62375pt x 312.16624pt>
+<./images/condition1.png, id=454, 434.62375pt x 312.16624pt>
 File: ./images/condition1.png Graphic file (type png)
 <use ./images/condition1.png>
-Package pdftex.def Info: ./images/condition1.png  used on input line 476.
+Package pdftex.def Info: ./images/condition1.png  used on input line 526.
 (pdftex.def)             Requested size: 260.77626pt x 187.3012pt.
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 478.
+(hyperref)                removing `math shift' on input line 528.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 478.
+(hyperref)                removing `math shift' on input line 528.
 
-<./images/condition2.png, id=429, 419.5675pt x 237.88875pt>
+<./images/condition2.png, id=455, 419.5675pt x 237.88875pt>
 File: ./images/condition2.png Graphic file (type png)
 <use ./images/condition2.png>
-Package pdftex.def Info: ./images/condition2.png  used on input line 485.
+Package pdftex.def Info: ./images/condition2.png  used on input line 535.
 (pdftex.def)             Requested size: 251.74243pt x 142.73433pt.
-[24 <./images/condition1.png>]
+[26 <./images/condition1.png>]
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 487.
+(hyperref)                removing `math shift' on input line 537.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 487.
+(hyperref)                removing `math shift' on input line 537.
 
-<./images/condition3.png, id=436, 414.54875pt x 318.18875pt>
+<./images/condition3.png, id=462, 414.54875pt x 318.18875pt>
 File: ./images/condition3.png Graphic file (type png)
 <use ./images/condition3.png>
-Package pdftex.def Info: ./images/condition3.png  used on input line 493.
+Package pdftex.def Info: ./images/condition3.png  used on input line 543.
 (pdftex.def)             Requested size: 248.73116pt x 190.9147pt.
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 496.
+(hyperref)                removing `math shift' on input line 546.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 496.
+(hyperref)                removing `math shift' on input line 546.
 
-<./images/condition4.png, id=437, 427.5975pt x 259.97125pt>
+<./images/condition4.png, id=463, 427.5975pt x 259.97125pt>
 File: ./images/condition4.png Graphic file (type png)
 <use ./images/condition4.png>
-Package pdftex.def Info: ./images/condition4.png  used on input line 502.
+Package pdftex.def Info: ./images/condition4.png  used on input line 552.
 (pdftex.def)             Requested size: 256.56047pt x 155.98395pt.
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 504.
+(hyperref)                removing `math shift' on input line 554.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 504.
+(hyperref)                removing `math shift' on input line 554.
 
-<./images/condition5.png, id=438, 570.13pt x 331.2375pt>
+<./images/condition5.png, id=464, 570.13pt x 331.2375pt>
 File: ./images/condition5.png Graphic file (type png)
 <use ./images/condition5.png>
-Package pdftex.def Info: ./images/condition5.png  used on input line 510.
+Package pdftex.def Info: ./images/condition5.png  used on input line 560.
 (pdftex.def)             Requested size: 342.08064pt x 198.74402pt.
-[25 <./images/condition2.png> <./images/condition3.png> <./images/condition4.pn
-g>] [26 <./images/condition5.png>]
+[27 <./images/condition2.png> <./images/condition3.png> <./images/condition4.pn
+g>] [28 <./images/condition5.png>]
 Chapter 5.
-Package mdframed Info: mdframed works in twoside mode on input line 516.
-<./images/loggraph.png, id=452, 299.1175pt x 254.9525pt>
+Package mdframed Info: mdframed works in twoside mode on input line 566.
+<./images/loggraph.png, id=478, 299.1175pt x 254.9525pt>
 File: ./images/loggraph.png Graphic file (type png)
 <use ./images/loggraph.png>
-Package pdftex.def Info: ./images/loggraph.png  used on input line 540.
+Package pdftex.def Info: ./images/loggraph.png  used on input line 590.
 (pdftex.def)             Requested size: 179.47188pt x 152.97266pt.
-[27
+[29
 
- <./images/loggraph.png>] [28
+ <./images/loggraph.png>] [30
 
 ]
 Chapter 6.
-Package mdframed Info: mdframed works in twoside mode on input line 545.
-<./images/expgraph.png, id=463, 444.66125pt x 307.1475pt>
+Package mdframed Info: mdframed works in twoside mode on input line 595.
+<./images/expgraph.png, id=488, 444.66125pt x 307.1475pt>
 File: ./images/expgraph.png Graphic file (type png)
 <use ./images/expgraph.png>
-Package pdftex.def Info: ./images/expgraph.png  used on input line 557.
+Package pdftex.def Info: ./images/expgraph.png  used on input line 607.
 (pdftex.def)             Requested size: 444.66016pt x 307.14674pt.
 
-Overfull \hbox (6.69226pt too wide) in paragraph at lines 557--558
+Overfull \hbox (6.69226pt too wide) in paragraph at lines 607--608
 [][] 
  []
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 560.
+(hyperref)                removing `math shift' on input line 610.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `superscript' on input line 560.
+(hyperref)                removing `superscript' on input line 610.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 560.
+(hyperref)                removing `math shift' on input line 610.
 
-[29 <./images/expgraph.png>]
-<./images/exp1.png, id=469, 278.03876pt x 289.08pt>
+[31 <./images/expgraph.png>]
+<./images/exp1.png, id=495, 278.03876pt x 289.08pt>
 File: ./images/exp1.png Graphic file (type png)
 <use ./images/exp1.png>
-Package pdftex.def Info: ./images/exp1.png  used on input line 563.
+Package pdftex.def Info: ./images/exp1.png  used on input line 613.
 (pdftex.def)             Requested size: 222.4313pt x 231.2643pt.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 565.
+(hyperref)                removing `math shift' on input line 615.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `superscript' on input line 565.
+(hyperref)                removing `superscript' on input line 615.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 565.
+(hyperref)                removing `math shift' on input line 615.
 
-<./images/exp2.png, id=470, 195.73125pt x 281.05pt>
+<./images/exp2.png, id=496, 195.73125pt x 281.05pt>
 File: ./images/exp2.png Graphic file (type png)
 <use ./images/exp2.png>
-Package pdftex.def Info: ./images/exp2.png  used on input line 568.
+Package pdftex.def Info: ./images/exp2.png  used on input line 618.
 (pdftex.def)             Requested size: 156.58519pt x 224.84029pt.
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 570.
+(hyperref)                removing `math shift' on input line 620.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `superscript' on input line 570.
+(hyperref)                removing `superscript' on input line 620.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 570.
+(hyperref)                removing `math shift' on input line 620.
 
-<./images/exp3.png, id=471, 450.68375pt x 222.8325pt>
+<./images/exp3.png, id=497, 450.68375pt x 222.8325pt>
 File: ./images/exp3.png Graphic file (type png)
 <use ./images/exp3.png>
-Package pdftex.def Info: ./images/exp3.png  used on input line 573.
+Package pdftex.def Info: ./images/exp3.png  used on input line 623.
 (pdftex.def)             Requested size: 360.54747pt x 178.26624pt.
-[30 <./images/exp1.png> <./images/exp2.png>]
-<./images/exp4.png, id=480, 289.08pt x 243.91125pt>
+[32 <./images/exp1.png> <./images/exp2.png>]
+<./images/exp4.png, id=506, 289.08pt x 243.91125pt>
 File: ./images/exp4.png Graphic file (type png)
 <use ./images/exp4.png>
-Package pdftex.def Info: ./images/exp4.png  used on input line 579.
+Package pdftex.def Info: ./images/exp4.png  used on input line 629.
 (pdftex.def)             Requested size: 231.2643pt x 195.12926pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 576--580
+Underfull \hbox (badness 10000) in paragraph at lines 626--630
 
  []
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 581.
-[31 <./images/exp3.png> <./images/exp4.png>]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 581.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 631.
+[33 <./images/exp3.png> <./images/exp4.png>]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 631.
  (./Mathematics Notes 04022020.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 581.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 581.
-
-Package rerunfilecheck Warning: File `"Mathematics Notes 04022020".out' has cha
-nged.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `"Mathematics Notes 04022020".out':
-(rerunfilecheck)             Before: F35F22621C77BC6632E34322C604ADBF;3905
-(rerunfilecheck)             After:  CB0F1309491506B6151D32819FD93707;3672.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 631.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 631.
+Package rerunfilecheck Info: File `"Mathematics Notes 04022020".out' has not ch
+anged.
+(rerunfilecheck)             Checksum: 6F4A2150C9B9B2DDB970F1EC9B90A847;3763.
  ) 
 Here is how much of TeX's memory you used:
- 18325 strings out of 492616
- 326050 string characters out of 6129482
- 419068 words of memory out of 5000000
- 21958 multiletter control sequences out of 15000+600000
+ 18361 strings out of 492616
+ 326903 string characters out of 6129482
+ 419111 words of memory out of 5000000
+ 21985 multiletter control sequences out of 15000+600000
  538471 words of font info for 44 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 47i,11n,65p,1038b,431s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 47i,11n,65p,1038b,450s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb
 ></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb>
 </usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><
@@ -1168,10 +1211,10 @@ ve/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/
 019/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/20
 19/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/local/texlive/2019
 /texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb>
-Output written on "Mathematics Notes 04022020.pdf" (31 pages, 795116 bytes).
+Output written on "Mathematics Notes 04022020.pdf" (33 pages, 892681 bytes).
 PDF statistics:
- 563 PDF objects out of 1000 (max. 8388607)
- 453 compressed objects within 5 object streams
- 98 named destinations out of 1000 (max. 500000)
- 565 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 588 PDF objects out of 1000 (max. 8388607)
+ 464 compressed objects within 5 object streams
+ 101 named destinations out of 1000 (max. 500000)
+ 603 words of extra memory for PDF output out of 10000 (max. 10000000)
 

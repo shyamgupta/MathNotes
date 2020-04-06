@@ -122,6 +122,26 @@ Concept of absolute value can be used to measure the distance between two points
 	\item Equations in absolute value must be equal to each other or be negative to each other. For example, if $\mid 3x +1\mid = \mid x-2 \mid $. This implies that $3x + 1 = x -2$ or $3x+1 = -(x-2)$ and the solutions are $x={-3/2,1/4}$
 \end{itemize}
 
+\begin{mdframed}[backgroundcolor=yellow]	
+	\textbf{Example: Solve $\mid 3x-2 \mid \geq \mid x + 4 \mid$} \\
+	\textbf{Solution}
+	Lets first identify the critical points (where the value equates to zero) for each side: in this case its $2/3, -4$
+	\begin{itemize}
+		\item $\mid 3x-2 \mid = {3x-2} \forall x > 2/3$ and $\mid 3x-2 \mid = -(3x-2) \forall x < 2/3$
+		\item $\mid x + 4 \mid = (x+4) \forall x > {-4}$ and $\mid x + 4 \mid = -(x+4) \forall x < -4)$
+	\end{itemize}
+	
+	
+	For $x < 2/3$, our equation becomes $x + 4 = -(3x-2)$, therefore $x=-1/2$ \\
+	For $x > -4$, our equation becomes $x+4 = 3x-2$, therefore $x=3$ \\
+	
+	Solution is the values for which graph of $\mid 3x-2 \mid$ is above the graph of $\mid x+4 \mid$ \\
+	
+	\includegraphics[scale=0.5]{solution1}
+	
+	
+\end{mdframed}
+
 	\section{Intervals}
 	\textbf{Open Interval}:  If $a$ and $b$ are real numbers and $a<b$,  then the open interval from $a$ to $b$ is written $(a,b)$ , is the collection of all real numbers greater than $a$ and less than $b$, i.e. $(a,b) = {{x | a<x<b}}$ . Geometrically, its represented on the real number line as shown below - the open circles represent the fact that $a$ and $b$ are \textbf{not included} in the interval. \\
 	\\
@@ -239,7 +259,6 @@ where $r(x) =0$ or degree of $r(x)$ $<$ degree of $g(x)$. Essentially, what this
 	\end{mdframed}
 
 	\chapter{Graphs of Polynomial Functions}
-	
 	\section{Linear Polynomial - Straight Line}
 	A linear polynomial is of the form $p(x) = mx + c$, and its graph is a straight line. Here $m$ is the slope or "steepness" of this straight line, i.e. how quickly it rises (or falls) as we move along the $x-axis$. The slope of a line is the ratio of $rise/run$:
 	
@@ -406,6 +425,37 @@ where $r(x) =0$ or degree of $r(x)$ $<$ degree of $g(x)$. Essentially, what this
 	\includegraphics[scale=0.5]{pinterval2}
 	
 	\includegraphics[scale=0.6]{pinterval3}
+	
+	\subsection{Curve Sketching using Differentiation}
+	
+	A local \textbf{maximum} occurs when the first derivative = 0 and it changes sign from positive to negative (as we go left to right):
+	
+	\includegraphics[scale=0.7]{localmaximum}
+	
+	A local \textbf{minimum} occurs when first derivative = 0 and it changes sign from negative to positive
+	
+	\includegraphics[scale=0.7]{localminimum}
+	
+	\textbf{Concave Upward} is when the slope increases and \textbf{Concave downward} is when the slope decreases:
+	
+	\includegraphics[scale=0.9]{concave1}
+	
+	An \textbf{Inflection Point} is where a curve changes from Concave upward to Concave downward (or vice versa)
+	
+	\includegraphics[scale=0.9]{inflection1}
+	
+	The second derivative of a function tells us if the slope increases or decreases:
+	
+	\begin{itemize}
+		\item When the second derivative is positive, the function is concave upward.
+		\item When the second derivative is negative, the function is concave downward
+	\end{itemize}
+	
+	Consider $y = 5x^3 + 22x^2 -3x$:
+	The first derivative is $15x^2 + 4x -3$ and second derivative is $30x+ 4$. We see that the second derivative is negative upto $x=-2/15$ and positive there onwards,so the graph looks as shown below:
+	
+	\includegraphics[scale=0.9]{inflection2}
+	
 	
 	\chapter{Quadratic Equations}
 	
