@@ -161,7 +161,7 @@ Concept of absolute value can be used to measure the distance between two points
 	HCF of two positive integers $a$ and $b$ is the largest positive integer $d$ that divides both $a$ and $b$. We can use Euclid’s division lemma to find the HCF of two positive integers. For example, to find the HCF of 455 and 42: \\
 	1. Start with highest number, $455 = 42 \times 10 + 35$ \\
 	2. Now consider the divisor and remainder: $42 = (35 \times 1) + 7$ \\
-	3. Repeat the above step with divisor and remainder, $35 = (7 \times 5) + 0$\\
+	3. Repeat the above step with divisor and remainder, $35 = (7 \times 5) + 0$\
 	4. Since the remainder is zero, the divisor at this stage, i..e $7$ will be the HCF \\
 	
 	\begin{mdframed}[backgroundcolor=yellow]
@@ -351,9 +351,23 @@ where $r(x) =0$ or degree of $r(x)$ $<$ degree of $g(x)$. Essentially, what this
 	
 	\section{Graphs of Other Polynomial Functions}
 	
-	We will consider the polynomial function $p(x) = a_nx^n + a_{n-1}x^{n-1} + .....+ a_1x + a_0$, where $a_n \neq 0$ and the leading term is $a_nx^n$
+	We will consider the polynomial function $f(x) = a_nx^n + a_{n-1}x^{n-1} + .....+ a_1x + a_0$, where $a_n \neq 0$ and the leading term is $a_nx^n$
 	
-	\subsection{Leading Coefficient and Degree}
+	\subsection{Symmetry}
+	
+	\begin{itemize}
+		\item If the function is an even function, that is, $f(–x) = f(x)$, its graph is symmetric with respect to the y-axis.
+		\item If the function is an odd function, that is, $f(–x) = –f(x)$, its graph is symmetric with respect to the origin.
+	\end{itemize}
+	
+	\subsection{End Behavior - Leading Coefficient and Degree}
+	
+	The graph of a polynomial function will either ultimately rise or fall as $x$ increases without bound and will either rise or fall as $x$ decreases without bound. This is because for very large or very small inputs, the \textbf{ leading coefficient dominates the size of the output}. We call this behavior the \textbf{end behavior} of a function.
+	
+	\includegraphics[scale=0.5]{evenodd1}
+	
+	\includegraphics[scale=0.5]{evenodd2}
+	
 	
 	\begin{table}[ht]
 		\begin{tabular}{|l| l| l|  }
@@ -376,7 +390,9 @@ where $r(x) =0$ or degree of $r(x)$ $<$ degree of $g(x)$. Essentially, what this
 	\includegraphics[scale=0.7]{polynomialg}
 	
 	\subsection{Zeroes and their multiplicities}
-	A zero has a "multiplicity", which refers to the number of times that its associated factor appears in the polynomial. For example, consider the polynomial $p(x) = 3(x+5)^3(x+2)^4(x-1)^2)(x-5)$. The multiplicity of each zero is the number of times that its corresponding factor appears:
+	If a polynomial contains a factor of the form $(x-h)^p$, the behavior near the x-intercept $h$ is determined by the power $p$. We say that $x=h$ is a zero of multiplicity $p$.
+	
+	For example, consider the polynomial $p(x) = 3(x+5)^3(x+2)^4(x-1)^2)(x-5)$. The multiplicity of each zero is the number of times that its corresponding factor appears:
 	
 	\begin{itemize}
 		\item $x=-5$ has an odd multiplicty of 3
@@ -385,15 +401,32 @@ where $r(x) =0$ or degree of $r(x)$ $<$ degree of $g(x)$. Essentially, what this
 		\item $x=5$ has an odd multiplicity of 1
 	\end{itemize}
 	
+	\textbf{\hl{The graph of a polynomial function will touch the x-axis at zeros with even multiplicities. The graph will cross the x-axis at zeros with odd multiplicities.}} \\
+	
 	The point of multiplicities with respect to graphing is that any factors that occur an even number of times are squares, so they don't change sign. Squares are always positive. This means that the x-intercept corresponding to an even-multiplicity zero can't cross the x-axis, because the zero can't cause the graph to change sign from positive (above the x-axis) to negative (below the x-axis), or vice versa.  An even-multiplicity zero makes the graph just barely touch the x-axis, and then turns it back around the way it came. \hl{This means that the sign of $p(x)$ does not change on either side of zero with even multiplicity.}
 	
 	\begin{itemize}
-		\item Any zero whose corresponding factor occurs in pairs (so two times, or four times, or six times, etc) will "bounce off" the x-axis and return the way it came. \item Any zero whose corresponding factor occurs an odd number of times (so once, or three times, or five times, etc) will cross the x-axis. 
+		\item If the graph crosses the x-axis and appears almost linear at the intercept, it is a single zero
+		\item If the graph touches the x-axis and bounces off of the axis, it is a zero with even multiplicity. For higher even powers, such as 4, 6, and 8, the graph will still touch and bounce off of the x-axis, but for each increasing even power the graph will appear flatter as it approaches and leaves the x-axis
+		\item If the graph crosses the x-axis at a zero, it is a zero with odd multiplicity. For higher odd powers, such as 5, 7, and 9, the graph will still cross through the x-axis, but for each increasing odd power, the graph will appear flatter as it approaches and leaves the x-axis.
+		\item The sum of the multiplicities is the degree of the polynomial function
 	\end{itemize}
 	
-	Polynomial zeroes with even and odd multiplicities will always behave in this way. In the below figures, we can see that all  four graphs have the same zeroes, at x = –6 and at x = 7, but the multiplicity of the zero determines whether the graph crosses the x-axis at that zero or if it instead turns back the way it came. If the zero was of multiplicity 1, the graph crossed the x-axis at the zero; if the zero was of multiplicity 2, the graph just "kissed" the x-axis before heading back the way it came.
+	\includegraphics[scale=0.5]{zeromul}
 	
-	\includegraphics[scale=0.7]{zerom}
+	Polynomial zeroes with even and odd multiplicities will always behave in this way. From the graphs below, we can see that for higher even or odd powers, the graph still either bounces or crosses the x-axis, but it becomes flatter as it approaches and leaves the x-axis. \\
+	
+	\includegraphics[scale=0.6]{oddeven1}
+	
+	Suppose for example we graph the function $f(x) = (x+3)(x-2)^2(x+1)^3$
+	
+	\begin{itemize}
+		\item At $x = -3$, we have a single zero (i.e. multiplicity is 1) and the factor is linear, so the behavior near the intercept is like that of a line; it passes directly through the intercept
+		\item At $x = 2$, multiplicity is 2 - graph touches the axis at the intercept and changes direction. The factor is quadratic (degree 2), so the behavior near the intercept is like that of a quadratic—it bounces off of the horizontal axis at the intercept.
+		\item At $x = -1$, multiplicity is 3. The graph passes through the axis at the intercept but flattens out a bit first. This factor is cubic (degree 3), so the behavior near the intercept is like that of a cubic with the same S-shape near the intercept
+	\end{itemize}
+	
+	\includegraphics[scale=0.5]{graphex}
 	
 	\subsection{Turning Points}
 	From the previous subsection we can see that the graph of a polynomial consists of a smooth line with a series of hills and valleys called turning points. 
@@ -411,9 +444,9 @@ where $r(x) =0$ or degree of $r(x)$ $<$ degree of $g(x)$. Essentially, what this
 		\item At $x=1$ and $x=-1$, the tangent is parallel to x-axis, where derivative is zero.
 	\end{itemize}
 	
-	\includegraphics[scale=0.7]{turningpoint}
+	\includegraphics[scale=0.6]{turningpoint}
 	
-	\subsection{Positive and Negative Intervals}
+	\subsection{Intermediate Value Theorem}
 	\hl{The sign of a polynomial between any two \textbf{consecutive zeros} is either always positive or always negative}. This is because polynomial functions are continuous functions (no breaks in the graph), which means that the only way to change signs is to cross the x-axis. But if this happened, the given zeros would not be consecutive! It is not necessary, however, for a polynomial function to change signs between zeros.
 	\\
 	
@@ -422,39 +455,64 @@ where $r(x) =0$ or degree of $r(x)$ $<$ degree of $g(x)$. Essentially, what this
 	Let's consider the polynomial $p(x) = (x+3)(x-1)^2$. The zeros are $-3,1$. This creates three intervals over which the sign of $p(x)$ is constant:
 	\\
 	
-	\includegraphics[scale=0.5]{pinterval2}
+	\includegraphics[scale=0.5]{pinterval2} \\
 	
-	\includegraphics[scale=0.6]{pinterval3}
+	\includegraphics[scale=0.40]{pinterval3} \\
 	
-	\subsection{Curve Sketching using Differentiation}
+	\begin{mdframed}[backgroundcolor=yellow]
+		\textbf{Intermediate Value Theorem} If $y = f(x)$ is a continuous curve on the interval $[a,b]$, and $w$ is a number between $f(a)$ and $f(b)$, then there must be at least one value, $c$, within $[a,b]$ such that $f(c)=w$. \\
+		
+		\includegraphics[scale=0.6]{ivt}
+	\end{mdframed} 
+	
+	We can use the special case of Intermediate Value Theorem for graphing polynomials - \textbf{If there are two points are on opposite sides of the x-axis, we can confirm that there is a zero between them}. If a point on the graph of a continuous function $f(x)$ at $x=a$ lies above the x-axis and another point at $x=b$ lies below the x-axis, there must exist a third point between $x=a$ and $x=b$ where the graph crosses the x-axis. \textbf{In other words, the Intermediate Value Theorem tells us that when a polynomial function changes from a negative value to a positive value, the function must cross the x-axis}. The figure below shows that there is a zero between $a$ and $b$. In general, if f$(a)$ and $f(b)$ have opposite signs, then there exists at least one value $c$ between $a$ and $b$ for which $f(c)=0$. \\
+	
+	\includegraphics[scale=0.6]{ivt1}
+	
+	
+	\subsection{Concavity - Curve Sketching using Differentiation}
 	
 	A local \textbf{maximum} occurs when the first derivative = 0 and it changes sign from positive to negative (as we go left to right):
 	
-	\includegraphics[scale=0.7]{localmaximum}
+	\includegraphics[scale=0.5]{localmaximum}
 	
 	A local \textbf{minimum} occurs when first derivative = 0 and it changes sign from negative to positive
 	
-	\includegraphics[scale=0.7]{localminimum}
-	
-	\textbf{Concave Upward} is when the slope increases and \textbf{Concave downward} is when the slope decreases:
-	
-	\includegraphics[scale=0.9]{concave1}
-	
-	An \textbf{Inflection Point} is where a curve changes from Concave upward to Concave downward (or vice versa)
-	
-	\includegraphics[scale=0.9]{inflection1}
-	
-	The second derivative of a function tells us if the slope increases or decreases:
+	\includegraphics[scale=0.5]{localminimum}
 	
 	\begin{itemize}
-		\item When the second derivative is positive, the function is concave upward.
-		\item When the second derivative is negative, the function is concave downward
+		\item We say that a function $y = f(x)$ is concave up (CU) on a given interval if the graph of the function always lies above its tangent lines on that interval. In other words, if you draw a tangent line at any given point, then the graph seems to curve upwards, away from the line.
+		\item Conversely, a function is concave down (CD) on a given interval if the graph of the function always lies below its tangent lines on that interval. That is the graph seems to curve downwards, away from its tangent line at any given point.
 	\end{itemize}
 	
-	Consider $y = 5x^3 + 22x^2 -3x$:
-	The first derivative is $15x^2 + 4x -3$ and second derivative is $30x+ 4$. We see that the second derivative is negative upto $x=-2/15$ and positive there onwards,so the graph looks as shown below:
+	\includegraphics[scale=0.6]{concave1} \\
 	
-	\includegraphics[scale=0.9]{inflection2}
+	An \textbf{Inflection Point} is a point in a graph at which the concavity changes, i.e. where a curve changes from Concave upward to Concave downward (or vice versa): \\
+	
+	\includegraphics[scale=0.6]{inflection1} \\
+	
+	Inflection points may be difficult to spot on the graph itself, so we must rely on calculus to find them:
+	
+	\begin{itemize}
+		\item When $f^{''}(x) > 0 $ on an interval, the function is \textbf{concave upward} on that interval.
+		\item When $f^{''}(x) < 0 $ on an interval,  the function is \textbf{concave downward} on that interval
+		\item When $f^{''}(x)$ changes sign (from positive to negative, or from negative to positive) at a point $x = c$, then there is an inflection point located at $x = c$ on the graph. In particular, the point $(c, f(c))$ is an inflection point for the function $f$. 
+	\end{itemize}
+	
+	\begin{mdframed}[backgroundcolor=yellow]
+		Not all solutions of $f^{''}(x)=0$ are going to be inflection points. We have to find out how the concavity changes from interval to interval. Once you determine the roots of  $f^{''}(x)=0$, find out the sign (negative or positive) of  $f^{''}(x)$ in those intervals.\\
+	\end{mdframed} 
+	
+	
+	Consider $f(x) = x^6/30 - x^5/20 - x^4 + 3x + 20$ \\
+	We see that $f^{''}(x) = x^4 - x^3-12x^2 = x^2(x-4)(x+3)$
+	There are three solutions, $x = 0, 4, and -3$. These are not necessarily all going to be inflection points, though! We have to find out how the concavity changes from interval to interval first. \\
+	
+	\includegraphics[scale=0.5]{concavex1} \\
+	
+	Notice that there is no change in concavity at x = 0, and the only inflection points are at x = -3 and 4: \\
+	
+	\includegraphics[scale=0.5]{concaveex2}
 	
 	
 	\chapter{Quadratic Equations}
