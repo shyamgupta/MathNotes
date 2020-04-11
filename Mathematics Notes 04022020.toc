@@ -14,10 +14,11 @@
 \contentsline {section}{\numberline {1.10}Fundamental Theorem of Arithmetic}{9}{section.1.10}% 
 \contentsline {chapter}{\numberline {2}Polynomials}{11}{chapter.2}% 
 \contentsline {section}{\numberline {2.1}Introduction}{11}{section.2.1}% 
+\contentsline {subsection}{\numberline {2.1.1}Graphs of Polynomial Functions}{12}{subsection.2.1.1}% 
 \contentsline {section}{\numberline {2.2}Remainder Theorem}{12}{section.2.2}% 
-\contentsline {section}{\numberline {2.3}Factor Theorem}{12}{section.2.3}% 
-\contentsline {section}{\numberline {2.4}Useful Identities}{12}{section.2.4}% 
-\contentsline {section}{\numberline {2.5}Synthetic Division}{12}{section.2.5}% 
+\contentsline {section}{\numberline {2.3}Factor Theorem}{13}{section.2.3}% 
+\contentsline {section}{\numberline {2.4}Useful Identities}{13}{section.2.4}% 
+\contentsline {section}{\numberline {2.5}Synthetic Division}{13}{section.2.5}% 
 \contentsline {section}{\numberline {2.6}Zeros of a Polynomial}{13}{section.2.6}% 
 \contentsline {chapter}{\numberline {3}Graphs of Polynomial Functions}{15}{chapter.3}% 
 \contentsline {section}{\numberline {3.1}Linear Polynomial - Straight Line}{15}{section.3.1}% 
@@ -28,30 +29,36 @@
 \contentsline {subsection}{\numberline {3.2.4}Discriminant}{17}{subsection.3.2.4}% 
 \contentsline {section}{\numberline {3.3}Graphs of Other Polynomial Functions}{18}{section.3.3}% 
 \contentsline {subsection}{\numberline {3.3.1}Symmetry}{18}{subsection.3.3.1}% 
-\contentsline {subsection}{\numberline {3.3.2}End Behavior - Leading Coefficient and Degree}{18}{subsection.3.3.2}% 
-\contentsline {subsection}{\numberline {3.3.3}Zeroes and their multiplicities}{20}{subsection.3.3.3}% 
+\contentsline {subsection}{\numberline {3.3.2}End Behavior - Leading Coefficient and Degree}{19}{subsection.3.3.2}% 
+\contentsline {subsection}{\numberline {3.3.3}Zeroes and their multiplicities}{21}{subsection.3.3.3}% 
 \contentsline {subsection}{\numberline {3.3.4}Turning Points}{22}{subsection.3.3.4}% 
 \contentsline {subsection}{\numberline {3.3.5}Intermediate Value Theorem}{23}{subsection.3.3.5}% 
-\contentsline {subsection}{\numberline {3.3.6}Concavity - Curve Sketching using Differentiation}{24}{subsection.3.3.6}% 
-\contentsline {chapter}{\numberline {4}Quadratic Equations}{27}{chapter.4}% 
-\contentsline {section}{\numberline {4.1}Introduction}{27}{section.4.1}% 
-\contentsline {section}{\numberline {4.2}Common Roots}{27}{section.4.2}% 
-\contentsline {subsection}{\numberline {4.2.1}Condition for one common root}{28}{subsection.4.2.1}% 
-\contentsline {subsection}{\numberline {4.2.2}Condition for both roots to be common}{28}{subsection.4.2.2}% 
-\contentsline {section}{\numberline {4.3}Location of Roots}{28}{section.4.3}% 
-\contentsline {subsection}{\numberline {4.3.1}Both roots are greater than a number $d$}{28}{subsection.4.3.1}% 
-\contentsline {subsection}{\numberline {4.3.2}Both roots lie on opposite sides of a number $d$}{28}{subsection.4.3.2}% 
-\contentsline {subsection}{\numberline {4.3.3}Both roots lie between $(d,e)$}{29}{subsection.4.3.3}% 
-\contentsline {subsection}{\numberline {4.3.4}$(d,e)$ lie between the roots}{29}{subsection.4.3.4}% 
-\contentsline {subsection}{\numberline {4.3.5}Exactly one root lies in interval $(d,e)$}{29}{subsection.4.3.5}% 
-\contentsline {chapter}{\numberline {5}Logarithms}{31}{chapter.5}% 
-\contentsline {section}{\numberline {5.1}Introduction}{31}{section.5.1}% 
-\contentsline {section}{\numberline {5.2}Identities}{31}{section.5.2}% 
-\contentsline {chapter}{\numberline {6}Exponential Functions}{33}{chapter.6}% 
-\contentsline {section}{\numberline {6.1}Introduction}{33}{section.6.1}% 
-\contentsline {section}{\numberline {6.2}Graphs of Exponential Functions}{33}{section.6.2}% 
-\contentsline {section}{\numberline {6.3}Transformation of Exponential Functions}{34}{section.6.3}% 
-\contentsline {subsection}{\numberline {6.3.1}$f(x)=1+a^x$}{34}{subsection.6.3.1}% 
-\contentsline {subsection}{\numberline {6.3.2}$f(x) = -a^x$}{34}{subsection.6.3.2}% 
-\contentsline {subsection}{\numberline {6.3.3}$f(x) = a^{-x}$}{34}{subsection.6.3.3}% 
-\contentsline {section}{\numberline {6.4}The Natural Exponential Function}{35}{section.6.4}% 
+\contentsline {subsection}{\numberline {3.3.6}Concavity - Curve Sketching using Differentiation}{25}{subsection.3.3.6}% 
+\contentsline {chapter}{\numberline {4}Quadratic Equations}{29}{chapter.4}% 
+\contentsline {section}{\numberline {4.1}Introduction}{29}{section.4.1}% 
+\contentsline {section}{\numberline {4.2}Common Roots}{29}{section.4.2}% 
+\contentsline {subsection}{\numberline {4.2.1}Condition for one common root}{30}{subsection.4.2.1}% 
+\contentsline {subsection}{\numberline {4.2.2}Condition for both roots to be common}{30}{subsection.4.2.2}% 
+\contentsline {section}{\numberline {4.3}Location of Roots}{30}{section.4.3}% 
+\contentsline {subsection}{\numberline {4.3.1}Both roots are greater than a number $d$}{30}{subsection.4.3.1}% 
+\contentsline {subsection}{\numberline {4.3.2}Both roots lie on opposite sides of a number $d$}{30}{subsection.4.3.2}% 
+\contentsline {subsection}{\numberline {4.3.3}Both roots lie between $(d,e)$}{31}{subsection.4.3.3}% 
+\contentsline {subsection}{\numberline {4.3.4}$(d,e)$ lie between the roots}{31}{subsection.4.3.4}% 
+\contentsline {subsection}{\numberline {4.3.5}Exactly one root lies in interval $(d,e)$}{31}{subsection.4.3.5}% 
+\contentsline {chapter}{\numberline {5}Logarithms}{33}{chapter.5}% 
+\contentsline {section}{\numberline {5.1}Introduction}{33}{section.5.1}% 
+\contentsline {section}{\numberline {5.2}Identities}{33}{section.5.2}% 
+\contentsline {chapter}{\numberline {6}Exponential Functions}{35}{chapter.6}% 
+\contentsline {section}{\numberline {6.1}Introduction}{35}{section.6.1}% 
+\contentsline {section}{\numberline {6.2}Graphs of Exponential Functions}{35}{section.6.2}% 
+\contentsline {section}{\numberline {6.3}Transformation of Exponential Functions}{36}{section.6.3}% 
+\contentsline {subsection}{\numberline {6.3.1}$f(x)=1+a^x$}{36}{subsection.6.3.1}% 
+\contentsline {subsection}{\numberline {6.3.2}$f(x) = -a^x$}{36}{subsection.6.3.2}% 
+\contentsline {subsection}{\numberline {6.3.3}$f(x) = a^{-x}$}{36}{subsection.6.3.3}% 
+\contentsline {section}{\numberline {6.4}The Natural Exponential Function}{37}{section.6.4}% 
+\contentsline {chapter}{\numberline {7}Trigonometry}{39}{chapter.7}% 
+\contentsline {section}{\numberline {7.1}Trigonometric Ratios}{39}{section.7.1}% 
+\contentsline {section}{\numberline {7.2}Identities}{39}{section.7.2}% 
+\contentsline {section}{\numberline {7.3}Measurement of Angles - Radian}{39}{section.7.3}% 
+\contentsline {section}{\numberline {7.4}Values of trigonometric functions for $0^{\ensuremath {^\circ }}, 30^{\ensuremath {^\circ }}, 45^{\ensuremath {^\circ }},60^{\ensuremath {^\circ }},90^{\ensuremath {^\circ }}$}{40}{section.7.4}% 
+\contentsline {section}{\numberline {7.5}Complementary Angles}{40}{section.7.5}% 
