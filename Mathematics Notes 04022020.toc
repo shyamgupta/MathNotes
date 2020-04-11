@@ -48,6 +48,7 @@
 \contentsline {chapter}{\numberline {5}Logarithms}{33}{chapter.5}% 
 \contentsline {section}{\numberline {5.1}Introduction}{33}{section.5.1}% 
 \contentsline {section}{\numberline {5.2}Identities}{33}{section.5.2}% 
+\contentsline {section}{\numberline {5.3}Logarithmic Inequalities}{34}{section.5.3}% 
 \contentsline {chapter}{\numberline {6}Exponential Functions}{35}{chapter.6}% 
 \contentsline {section}{\numberline {6.1}Introduction}{35}{section.6.1}% 
 \contentsline {section}{\numberline {6.2}Graphs of Exponential Functions}{35}{section.6.2}% 
@@ -61,4 +62,4 @@
 \contentsline {section}{\numberline {7.2}Identities}{39}{section.7.2}% 
 \contentsline {section}{\numberline {7.3}Measurement of Angles - Radian}{39}{section.7.3}% 
 \contentsline {section}{\numberline {7.4}Values of trigonometric functions for $0^{\ensuremath {^\circ }}, 30^{\ensuremath {^\circ }}, 45^{\ensuremath {^\circ }},60^{\ensuremath {^\circ }},90^{\ensuremath {^\circ }}$}{40}{section.7.4}% 
-\contentsline {section}{\numberline {7.5}Complementary Angles}{40}{section.7.5}% 
+\contentsline {section}{\numberline {7.5}Reduction Formula}{40}{section.7.5}% 

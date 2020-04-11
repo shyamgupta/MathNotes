@@ -652,13 +652,24 @@ where $r(x) =0$ or degree of $r(x)$ $<$ degree of $g(x)$. Essentially, what this
 		\item $log_aN - log_aM = log_a{(N/M)}$
 		\item $log_aN^\beta = \beta log_aN$
 		\item$x^{log_xN} = N$
+		\item $\log_{a^q}n^p = (p/q)log_an, a,n > 0, a \ne 1$
+		\item $a^{log_bc} = c^{log_ba}$
+		\item \textbf{Change of Base Formula}: Assuming $x,a,b >0$ and $ a \ne1, b \ne 1$, $log_ax = log_bx/log_ba$. Example, $log_{16}32 = log_2(32)/log_2(16) = 5/4$
 		\item $\ln x = log_ex$ , Natural Logarithm (Base $e$). The number $e$ is defined as the value that $(1 + 1/n)^n$ approaches as $n$ becomes large. The approximate value of $e$ is $2.718$,and it's an irrational number.
+		\item \textbf{Base Switch Rule}: $log_bc = 1/log_cb$. Example, $1/log_82 =log_28$
 		\item $\ln x = y \leftrightarrow e^x = y$
 		\item $log_{10}x$ , Common Log (Base $10$)
 	\end{itemize}
 	
 	Here is the graph of $log_2x$: 
 	\includegraphics[scale=0.6]{loggraph}
+	
+	\section{Logarithmic Inequalities}
+	\begin{itemize}
+		\item If $log_ax > log_ay$, this implies that $x>y \: if \: a>1$ or $0<x<y \: if \: 0<a<1$
+		\item If $log_ax >y$, this implies that $x>a^y \: if \: a>1$ or $0<x<a^y \: if \: 0<a<1$
+		\item $log_ax > 0$ implies $x>1$ and $a>1$ or $0<x<1$ and $0<a<1$
+	\end{itemize}
 
 	\chapter{Exponential Functions}
 	
@@ -797,5 +808,28 @@ where $r(x) =0$ or degree of $r(x)$ $<$ degree of $g(x)$. Essentially, what this
 			
 		\end{itemize}
 	\end{mdframed}
+	
+	
+	We can use the below figure for reduction formula 
+	\begin{itemize}
+		\item Along the X-Axis, there's no change (i.e. sin will remain $\sin$, $\cos$ will remain cos etc.)
+		\item Along the Y-axis, $\sin$ will change to $\cos$ and vice versa, $\cot$ will change to $\tan$ and vice versa, $\csc$ will change to $\sec$ and vice versa.
+		\item Along the positive X-Axis, we get even multiples of $\pi$
+		\item Along the negative X-Axis, we get odd multiples of $\pi$
+		\item Along the positive Y-Axis, when we divide the $\pi$ multiple by $4$, we get a remainder of $1$.
+		\item Along the negative Y-Axis, when we divide the $\pi$ multiple by $4$, we get a remainder of $3$.
+	\end{itemize}
+	
+	\includegraphics[scale=0.5]{reduction} \\
+	
+	Let's see the below examples on how we can use the above figure: \\
+	
+	\begin{itemize}
+		\item $\sin(3\pi/2 - A)$: Since $3\pi/2$ is along the  negative Y-Axis, we will change $\sin$ to $\cos$. Also, since $\sin$ is negative in $3^{rd}$ Quadrant, $\sin(3\pi/2 - A) = -\cos{A}$ 
+		\item $\tan(39\pi/2 - A)$:  If we divide $39$ by $4$, we get a remainder of $3$ - so $39\pi/2$ lies along the negative Y-Axis. We will first change $\tan$ to $\cot$ and since $\tan$ is positve in $3^{rd}$ quadrant, $\tan(39\pi/2 - A) = \cot{A}$. 
+	\end{itemize}
+	
+	\includegraphics[scale=0.5]{reductionex}
+	
 	
 \end{document}
