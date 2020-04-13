@@ -57,9 +57,20 @@
 \contentsline {subsection}{\numberline {6.3.2}$f(x) = -a^x$}{36}{subsection.6.3.2}% 
 \contentsline {subsection}{\numberline {6.3.3}$f(x) = a^{-x}$}{36}{subsection.6.3.3}% 
 \contentsline {section}{\numberline {6.4}The Natural Exponential Function}{37}{section.6.4}% 
-\contentsline {chapter}{\numberline {7}Trigonometry}{39}{chapter.7}% 
-\contentsline {section}{\numberline {7.1}Trigonometric Ratios}{39}{section.7.1}% 
-\contentsline {section}{\numberline {7.2}Identities}{39}{section.7.2}% 
-\contentsline {section}{\numberline {7.3}Measurement of Angles - Radian}{39}{section.7.3}% 
-\contentsline {section}{\numberline {7.4}Values of trigonometric functions for $0^{\ensuremath {^\circ }}, 30^{\ensuremath {^\circ }}, 45^{\ensuremath {^\circ }},60^{\ensuremath {^\circ }},90^{\ensuremath {^\circ }}$}{40}{section.7.4}% 
-\contentsline {section}{\numberline {7.5}Reduction Formula}{40}{section.7.5}% 
+\contentsline {chapter}{\numberline {7}Set Theory, Relation and Functions}{39}{chapter.7}% 
+\contentsline {section}{\numberline {7.1}Introduction}{39}{section.7.1}% 
+\contentsline {section}{\numberline {7.2}Venn Diagrams}{40}{section.7.2}% 
+\contentsline {section}{\numberline {7.3}Operations on Sets}{40}{section.7.3}% 
+\contentsline {subsection}{\numberline {7.3.1}Union of Sets}{40}{subsection.7.3.1}% 
+\contentsline {subsection}{\numberline {7.3.2}Intersection of Sets}{40}{subsection.7.3.2}% 
+\contentsline {subsection}{\numberline {7.3.3}Difference of Sets}{41}{subsection.7.3.3}% 
+\contentsline {subsection}{\numberline {7.3.4}Complement of a Set}{41}{subsection.7.3.4}% 
+\contentsline {section}{\numberline {7.4}Ordered Pair and Cartesian Product of Sets}{41}{section.7.4}% 
+\contentsline {section}{\numberline {7.5}Relations}{42}{section.7.5}% 
+\contentsline {section}{\numberline {7.6}Functions}{42}{section.7.6}% 
+\contentsline {chapter}{\numberline {8}Trigonometry}{43}{chapter.8}% 
+\contentsline {section}{\numberline {8.1}Trigonometric Ratios}{43}{section.8.1}% 
+\contentsline {section}{\numberline {8.2}Identities}{43}{section.8.2}% 
+\contentsline {section}{\numberline {8.3}Measurement of Angles - Radian}{43}{section.8.3}% 
+\contentsline {section}{\numberline {8.4}Values of trigonometric functions for $0^{\ensuremath {^\circ }}, 30^{\ensuremath {^\circ }}, 45^{\ensuremath {^\circ }},60^{\ensuremath {^\circ }},90^{\ensuremath {^\circ }}$}{44}{section.8.4}% 
+\contentsline {section}{\numberline {8.5}Reduction Formula}{44}{section.8.5}% 
