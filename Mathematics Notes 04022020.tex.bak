@@ -1054,7 +1054,7 @@ As the real number line is wrapped around the unit circle, each real number $t$ 
 			\item $\sin(\pi + x) = -\sin x$
 			\item $\cos(2\pi - x) = \cos x$
 			\item $\sin (2\pi -x) = -\sin x$
-			\item $\tan(x+y) = (\tan x + \tan y) / (1-\tan x \tan y)$, provided $x, y,(x+y)$ are not odd multiples of $\pi/2$
+			\item $\tan(x+y) = (\tan x + \tan y) / (1--\tan x \tan y)$, provided $x, y,(x+y)$ are not odd multiples of $\pi/2$
 			\item $\tan(x-y) = (\tan x - \tan y) / (1+\tan x \tan y)$
 			\item $\cot(x+y) = (\cot x \cot y -1)/ (\cot y + \cot x)$, provided $x, y,(x+y)$ are not multiples of $\pi$
 			\item $\cot(x-y) = (\cot x \cot y +1)/ (\cot y - \cot x)$, provided $x, y,(x+y)$ are not multiples of $\pi$
